@@ -42,7 +42,7 @@ You can customize default settings by editing the values at the top of the `wate
 
 ```python
 # Watermark settings
-DEFAULT_TEXT = "@DeepakNess"             # Default text to use as watermark
+DEFAULT_TEXT = "@ghostmark"             # Default text to use as watermark
 DEFAULT_POSITION = "bottom-right"        # Position of the watermark
 DEFAULT_OPACITY = 0.8                    # Transparency (0.0 to 1.0)
 DEFAULT_SIZE = "small"                   # Relative size (small, medium, large)
